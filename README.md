@@ -26,10 +26,15 @@ Testing set (10%)
 Multiple machine learning models were evaluated, including:
 
 RandomForestClassifier
+
 Support Vector Classifier (SVC)
+
 HistGradientBoostingClassifier
+
 Voting Classifier
+
 Stacking Classifier 
+
 OneVsRest(logistic Regression)
 
 ## Final Model: 
